@@ -1,6 +1,6 @@
 ### Hi there 👋, Vinayak Gupta
 #### Programmer & Developer
-![Programmer & Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Programmer & Developer](https://github.com/vinayak700/vinayak700/blob/main/Keep%20it%20simple..png)
 
 I am Vinayak from India, and I write software programs and develop software applications. I enjoy transforming ideas into functional code and crafting solutions that make a positive impact. My passion for coding extends beyond lines of code, driving me to explore new technologies, tackle challenging problems, and continuously enhance my skills.
 
